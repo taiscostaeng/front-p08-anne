@@ -1,0 +1,123 @@
+/* Primeira Seção da Página - TOPO */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.topo {
+    width: 100%;
+    font-size: 22px;
+    background: #cfa3b7;
+    color: #ffff;
+    padding: 20px 0;
+}
+
+.topo div {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.topo span {
+    margin: 0 30px;
+}
+
+.topo a {
+    color: #cfa3b7;
+    background: #ffff;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 6px;
+    padding: 7px 15px;
+    border-radius: 20px;
+}
+
+
+/* Segunda Seção da Página - CAPA */
+
+.capa {
+    width: 100%;
+}
+
+/* Terceira Seção da Página - SINOPSE */
+
+.sinopse,
+.scroll {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.sinopse p,
+.scroll p {
+    width: 100%;
+    font-size: 16px;
+    line-height: 30px;
+    margin: 20px 0;
+}
+
+/* Quarta Seção da Página - GALERIA DE FOTOS */
+
+.galeria {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto 20px auto;
+    display: flex;
+    overflow-x: scroll;
+}
+
+.galeria img {
+    width: 315px;
+    margin: 10px;
+    box-shadow: 10px 10px 10px #b3b2ae;
+}
+
+/* Quinta Seção da Página - Temporadas*/
+
+.temporadas {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.temporadas li {
+    width: 100%;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 20px 0;
+}
+
+/* Sexta Seção da Página - RODAPE*/
+
+.rodape {
+    width: 100%;
+    background-color: #cfa3b7;
+    padding: 20px 0;
+}
+
+.rodape a {
+    background-color: #ffff;
+    font-weight: bold;
+    margin: 60px;
+    padding: 10px;
+    text-decoration: none;
+    color: #cfa3b7;
+    font-size: 20px;
+    border-radius: 20px;
+}
+
+.rodape p {
+    text-align: center;
+}
+
+/* Seção da Página - DIVISOR*/
+
+.divisor {
+    background-color: #cfa3b7;
+    margin: 20px;
+    padding: 20px;
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1024px;
+}
