@@ -19,7 +19,7 @@ I used some propriets to stylize my HTML code 😊😉. <a href = https://taisco
 
 
 <h3> 📱 Mobile </h3>
-<img src = "" width = 200px>
+This page isn't responsive.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> ✨😊 Do you want to contribue on this project? </h2>
