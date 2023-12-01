@@ -2,7 +2,7 @@
 
 P08-Anne with an "E" 📽✨ - This file is about my eighth project using CSS + HTML language.
 I learned about modify HTML propriets using display, visibility, opacity, overflow, box-sizing, box-shadow.
-I used some propriets to stylize my HTML code 😊😉. <a href = https://taiscostaeng.github.io/front-p07-lawyer/> See Here </a>
+I used some propriets to stylize my HTML code 😊😉. <a href = https://taiscostaeng.github.io/front-p08-anne/> See Here </a>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> 👩🏽‍🔧 Languages and Tools </h2>
