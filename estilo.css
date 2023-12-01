@@ -3,17 +3,21 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+img {
+    object-fit: cover;
+    width: 100%;
+}
+
 .topo {
     width: 100%;
     font-size: 22px;
-    background: #cfa3b7;
+    background: #8d5d3a;
     color: #ffff;
     padding: 20px 0;
 }
 
 .topo div {
     width: 100%;
-    max-width: 1024px;
     margin: 0 auto;
     text-align: center;
 }
@@ -23,7 +27,7 @@ body {
 }
 
 .topo a {
-    color: #cfa3b7;
+    color: #8d5d3a;
     background: #ffff;
     font-size: 20px;
     font-weight: bold;
@@ -92,7 +96,7 @@ body {
 
 .rodape {
     width: 100%;
-    background-color: #cfa3b7;
+    background-color: #8d5d3a;
     padding: 20px 0;
 }
 
@@ -102,7 +106,7 @@ body {
     margin: 60px;
     padding: 10px;
     text-decoration: none;
-    color: #cfa3b7;
+    color: #8d5d3a;
     font-size: 20px;
     border-radius: 20px;
 }
@@ -114,7 +118,7 @@ body {
 /* Seção da Página - DIVISOR*/
 
 .divisor {
-    background-color: #cfa3b7;
+    background-color: #8d5d3a;
     margin: 20px;
     padding: 20px;
     width: 100%;
